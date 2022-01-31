@@ -1,6 +1,9 @@
 {
-  "name": "smart-mirror-widget",
-  "version": "0.0.1",
+  "name": "senses-smart-mirror-hello-world",
+  "version": "0.0.2",
+  "description": "Part of Senses - Smart Mirror software",
+  "author": "Nick Thesing",
+  "license": "MIT",
   "scripts": {
     "bundle": "webpack"
   },

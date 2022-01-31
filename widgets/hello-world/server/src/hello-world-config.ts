@@ -3,8 +3,8 @@ const HelloWorldConfig: SmartMirror.IWidgetConfig = {
 	name: 'hello-world',
 	icon: 'fad fa-globe-europe',
 	helper: true,
-	link: "https://github.com/nickthesing/smart-mirror",
-  author: "Smart Mirror",
+	link: "https://senses-smartmirror.com",
+	author: "Senses - Smart Mirror",
 	version: "0.0.7",
 	settings: [{
 		name: "title",
