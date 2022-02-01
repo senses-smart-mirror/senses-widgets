@@ -3,9 +3,9 @@ const ChuckNorrisConfig: SmartMirror.IWidgetConfig = {
 	name: 'chuck-norris',
 	icon: 'fad fa-quote-left',
 	helper: true,
-	link: "",
-	author: "Smart Mirror",
-	version: "0.0.1",
+	link: "https://senses-smartmirror.com",
+	author: "Senses - Smart Mirror",
+	version: "0.0.3",
 	settings: [{
 		name: "title",
 		displayOnly: true,
