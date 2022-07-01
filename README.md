@@ -10,7 +10,7 @@
 <br /><br /><br />
 
 # Senses - Widgets
-This repository contains Senses - Smart Mirror example widgets. Please see the [documentation]() on how to use (import) these widgets to your Smart Mirror.
+This repository contains Senses - Smart Mirror example widgets. Please see the [documentation](https://docs.senses-smartmirror.com/widget-development/introduction.html) on how to use (import) these widgets to your Smart Mirror.
 
 ## 1. Hello World
 This widgets only displays "Hello World". You can use this widget as an example for your own widget development.
